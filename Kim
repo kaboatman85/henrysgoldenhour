@@ -8,7 +8,7 @@
     <style>
         body { 
             margin: 0; padding: 0; width: 100vw; height: 100vh; 
-            background: #1a1a2e url('https://drive.google.com/file/d/1MsGooyJuAFUbqGU3uXoGSlfJ1OsxjQsW/view?usp=sharing') no-repeat center center / cover; 
+            background: #1a1a2e url('https://i.redd.it/8nk7y935nr1a1.jpg') no-repeat center center / cover; 
             overflow: hidden; touch-action: none; font-family: sans-serif;
         }
         
